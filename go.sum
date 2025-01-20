@@ -126,6 +126,12 @@ github.com/PuerkitoBio/purell v1.0.0/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbt
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20160726150825-5bd2802263f2/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
+github.com/RobKenis/kopia v1.0.0 h1:VnjVwx4s/lL2t/+nIq2tkTC7tI2s+eZurxm2Z1hW6V4=
+github.com/RobKenis/kopia v1.0.0/go.mod h1:wTD+B93zc2EvM5tGe+Q5EeKN0GylS3e7DrwA/jJOdJw=
+github.com/RobKenis/kopia v1.0.1 h1:q90JpCbB6DHoiiq3utD2uc+7Zk40eSlqcB5RDQLKSgQ=
+github.com/RobKenis/kopia v1.0.1/go.mod h1:oHTsEZw2D7ndEmG2IwgNsZX7kSD16MAn0hLKWcUhIgw=
+github.com/RobKenis/kopia v1.0.2 h1:0xSgyfBwbtn0V1e07Z9+L5KLEgKjPn+vMXqKvtokteo=
+github.com/RobKenis/kopia v1.0.2/go.mod h1:oHTsEZw2D7ndEmG2IwgNsZX7kSD16MAn0hLKWcUhIgw=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
